@@ -1,0 +1,16 @@
+.navbar-link {
+    text-decoration: none;
+
+
+}
+
+/* .navbar .active {
+    color: skyblue;
+    background-color: black;
+    color: white;
+} */
+
+.navbar li {
+    display: inline-block;
+    padding-right: 10px;
+}
